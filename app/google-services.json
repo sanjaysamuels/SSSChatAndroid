@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729485877351",
+    "project_id": "ssschatandroid",
+    "storage_bucket": "ssschatandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729485877351:android:cd0e854e3db520de72f4c2",
+        "android_client_info": {
+          "package_name": "com.example.ssschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729485877351-8kiv8tfi08qlpal63e284pd66htff5up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnbY3bGtBFRfNcFcGKDwA_9RCO58eT5Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729485877351-8kiv8tfi08qlpal63e284pd66htff5up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
